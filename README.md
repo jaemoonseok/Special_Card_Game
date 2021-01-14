@@ -2,9 +2,9 @@
 
 ### How to Run
 1. Open a terminal and move directory to src folder
-- 2. Compile the Main.java by typinhg javac Main.java
-- 3. Run it by typing java Main.java 
-- 4.If the program works as the image below, then it is working well
+2. Compile the Main.java by typinhg javac Main.java
+3. Run it by typing java Main.java 
+4.If the program works as the image below, then it is working well
 
 
 ![](images/card%20game.JPG)
