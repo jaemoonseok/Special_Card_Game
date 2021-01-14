@@ -2,8 +2,8 @@
 
 ### How to Run
 - 1. Open a terminal and move directory to src folder
-- 2. Compile the Main.java by typinhg javac Main.java
-- 3. Run it by typing java Main.java If the program works as the image below, then it is working well
+- 3. Compile the Main.java by typinhg javac Main.java
+- 2. Run it by typing java Main.java If the program works as the image below, then it is working well
 ![](images/card%20game.JPG)
 
 ### Rules to determine who has better cards:
