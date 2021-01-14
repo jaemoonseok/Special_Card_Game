@@ -5,7 +5,6 @@
 - 2. Compile the Main.java by typinhg javac Main.java
 - 3. Run it by typing java Main.java
 - 4. If the program works as the image below, then it is working well
-
 ![](images/card%20game.JPG)
 
 ### Rules to determine who has better cards:
