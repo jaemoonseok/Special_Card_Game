@@ -3,6 +3,8 @@
 ### How to Run
 - Run Main.Java
 
+![](images/card%20game.jpeg)
+
 ### Rules to determine who has better cards:
 - J, Q, K are regarded as special cards.
 - Rule 1: The one with more special cards wins.
