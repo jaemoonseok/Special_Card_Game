@@ -3,7 +3,7 @@
 - Run Main.Java
 
 ### Rules to determine who has better cards:
-J, Q, K are regarded as special cards.\
+**J, Q, K are regarded as special cards.\
 Rule 1: The one with more special cards wins.\
 Rule 2: If both have the same number of special cards, add the face values of the other\
 card(s) and take the remainder after dividing the sum by 10. The one with a bigger\
