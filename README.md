@@ -3,7 +3,7 @@
 ### How to Run
 - Run Main.Java
 
-![](images/card%20game.jpeg)
+![](images/card%20game.JPG)
 
 ### Rules to determine who has better cards:
 - J, Q, K are regarded as special cards.
