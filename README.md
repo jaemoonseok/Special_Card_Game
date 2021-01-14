@@ -1,6 +1,6 @@
 # Special_Card_Game
 ### How to Run
--Run Main.Java
+- Run Main.Java
 
 ### Rules to determine who has better cards:
 J, Q, K are regarded as special cards.
